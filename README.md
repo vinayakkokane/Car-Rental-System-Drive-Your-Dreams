@@ -1,4 +1,4 @@
-The aim is to design and create a data management System (Car Rental system) for a car rental company.
+The aim is to design and create a data management System (Car Rental system) for a car rental company (Drive Your Dreams).
 Our objective is to provide Car for a rent that can be used temporarily for a fee, during a specified period of time.
 
 Technologies used: PHP, MySQL, Bootstrap4, HTML5, CSS3, Javascript
